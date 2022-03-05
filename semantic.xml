@@ -1,0 +1,77 @@
+<sources>
+    <book>
+        <title>Fareler ve insanlar</title>
+        <author>John Steinbeck</author>
+        <year>2012</year>
+        <page>111</page>
+        <isbn>9789755705859</isbn>
+        <price>20,20</price>
+    </book>
+    <book>
+        <title>İçimizdeki Şeytan</title>
+        <author>Sabahattin Ali</author>
+        <year>2016</year>
+        <page>254</page>
+        <isbn>9789753638036</isbn>
+        <price>7,80</price>
+    </book>
+    <book>
+        <title>Dokuzuncu hariciye Koğuşu</title>
+        <author>Peyami Safa</author>
+        <year>1996</year>
+        <page>112</page>
+        <isbn>9789754370485</isbn>
+        <price>15,00</price>
+    </book>
+    <book>
+        <title>Yaban</title>
+        <author>Yakup Kadri Karaosmanoğlu</author>
+        <year>2004</year>
+        <page>214</page>
+        <isbn>9789754700060</isbn>
+        <price>15,20</price>
+    </book>
+    <book>
+        <title>Tutunamayanlar</title>
+        <author>Oğuz Atay</author>
+        <year>2000</year>
+        <page>724</page>
+        <isbn>9789754700114</isbn>
+        <price>54,60</price>
+    </book>
+    <movie>
+        <title>127 Hours</title>
+        <studio>Fox Searchlight</studio>
+        <year>2010</year>
+        <imdb>7.6</imdb>
+        <price>14.99</price>
+    </movie>
+    <movie>
+        <title>The Prestige</title>
+        <studio>CBS</studio>
+        <year>2006</year>
+        <imdb>8.5</imdb>
+        <price>17.99</price> 
+    </movie>
+    <movie>
+        <title>Forrest Gump</title>
+        <studio>Paramount Pictures</studio>
+        <year>1994</year>
+        <imdb>8.8</imdb>
+        <price>16.99</price>   
+    </movie>
+    <movie>
+        <title>Venom</title>
+        <studio>Sony Pictures Home Entertainment</studio>
+        <year>2018</year>
+        <imdb>6.7</imdb>
+        <price>14.99</price>   
+    </movie>
+    <movie>
+        <title>1917</title>
+        <studio>Storyteller Distribution Co</studio>
+        <year>2020</year>
+        <imdb>8.3</imdb>
+        <price>14.99</price>   
+    </movie>
+</sources>
